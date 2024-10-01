@@ -1,9 +1,9 @@
 # AI Assistant for Transportation Decision
 
-This script simulates an AI assistant that recommends transportation modes 
-(work from home, take public transport, or drive) 
-based on various conditions 
-(rain, traffic, construction, etc.). 
+This script simulates an AI assistant that recommends transportation modes  
+(work from home, take public transport, or drive)  
+based on various conditions  
+(rain, traffic, construction, etc.).  
 It also suggests specific routes if driving is the recommended option.
 
 ## Variables:
